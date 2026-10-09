@@ -1,4 +1,4 @@
-# App Name: Task Manager v1.0 (Local Edition)
+# App Name: Task Manager v2.0 (Cloud Edition)
 
 #!/usr/bin/env python3
 """
