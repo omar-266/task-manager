@@ -18,7 +18,7 @@ def delete_task():
 
 # Main application window
 root = tk.Tk()
-root.title("Omar's Task Manager")
+root.title("Omar's Task Manager - Pro Edition")
 root.geometry("400x450")
 
 # Input frame
