@@ -8,7 +8,7 @@ import sys
 
 def show_banner():
     print("==============================")
-    print("      MY AWESOME TO-DO LIST        ")
+    print("      OMAR'S TASK MANAGER        ")
     print("==============================")
 
 def display_help():
