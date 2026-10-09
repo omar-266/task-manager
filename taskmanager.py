@@ -1,3 +1,5 @@
+# App Name: Task Manager v1.0 (Local Edition)
+
 #!/usr/bin/env python3
 """
 Simple Task Manager Utility
