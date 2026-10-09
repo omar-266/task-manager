@@ -48,3 +48,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def say_goodbye():
+    print("Thanks for using Task Manager. Goodbye!")
